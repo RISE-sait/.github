@@ -58,12 +58,9 @@ Welcome to the official GitHub organization for **RISE SAIT**, a multi-platform 
 
 ---
 
-## 🤝 Contributing
 
-We welcome contributions from developers, designers, and collaborators passionate about sports tech and community impact.
 
 📌 Start with:
-- [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [Admin README](https://github.com/RISE-sait/Rise-Admin-Shad-Version/blob/main/README.md)
 - [API Setup Guide](https://github.com/RISE-sait/api/blob/main/README.md)
 - [Public Website README](https://github.com/RISE-sait/RisePublicWebsite/blob/main/README.md)
@@ -74,7 +71,7 @@ We welcome contributions from developers, designers, and collaborators passionat
 
 **Mostapha Alahmair**  
 Lead – RISE Tech  
-🔗 [LinkedIn](www.linkedin.com/in/mostapha-alahmair-283136178)
+🔗 [LinkedIn](www.linkedin.com/in/mostapha-alahmair-283136178/)
 
 ---
 
