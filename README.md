@@ -45,7 +45,11 @@ Welcome to the official GitHub organization for **RISE SAIT**, a multi-platform 
 
 - **Mostapha Alahmair** – Lead Developer & Project Lead  
 - **Connor Davison** – Backend Developer (Go, SQLC, Docker)  
-- **Kyle Guenter** – Frontend Developer (Next.js, Tailwind CSS, Expo)
+  🔗 [LinkedIn](https://www.linkedin.com/in/con-davison) 
+
+- **Kyle Guenter** – Frontend Developer (Next.js, Tailwind CSS, Expo)  
+  🔗 [LinkedIn](https://www.linkedin.com/in/kyle-guenter-ab53b8299/) 
+
 
 ---
 
@@ -71,7 +75,7 @@ Welcome to the official GitHub organization for **RISE SAIT**, a multi-platform 
 
 **Mostapha Alahmair**  
 Lead – RISE Tech  
-🔗 [LinkedIn](www.linkedin.com/in/mostapha-alahmair-283136178/)
+🔗 [LinkedIn](https://www.linkedin.com/in/mostapha-alahmair-283136178/)
 
 ---
 
